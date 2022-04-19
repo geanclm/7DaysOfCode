@@ -5,4 +5,10 @@
  Objetivos iniciais:<br>
 	1 - Encontrar inconsistências no Dataset;<br>
 	2 - Analisar os gastos atuais;<br>
-	3 -
+	3 - <br><br>
+
+---
+Desadio proposto por<br>
+Paulo Vasconcellos<br>
+Cientista de Dados e Alura Star<br>
+em 19/04/2022
