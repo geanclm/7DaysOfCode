@@ -12,9 +12,10 @@ Desafios e aprendizados:<br>
 - [x] Data Cleaning and Preparation
 - [x] Data Visualization & Storytelling
 - [x] Forecasting
-- [ ] Sistemas de recomendação
-- [ ] 
-- [ ] 
+- [X] Sistemas de recomendação
+- [ ] .
+- [ ] .
+- [ ] .
 
 <br>
 ---
