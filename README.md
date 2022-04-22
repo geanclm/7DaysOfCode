@@ -1,12 +1,22 @@
 # 7DaysOfCode
 
- Análise dos dados do Senado<br>
- CEAPS (Cota para Exercício da Atividade Parlamentar dos Senadores)<br><br>
- Objetivos iniciais:<br>
+Análise dos dados do Senado<br>
+CEAPS (Cota para Exercício da Atividade Parlamentar dos Senadores)<br><br>
+Objetivos iniciais:<br>
+
 	1 - Encontrar inconsistências no Dataset;<br>
 	2 - Analisar os gastos atuais;<br>
-	3 - <br><br>
 
+Desafios e aprendizados:<br>
+
+- [x] Data Cleaning and Preparation
+- [x] Data Visualization & Storytelling
+- [x] Forecasting
+- [ ] Sistemas de recomendação
+- [ ] 
+- [ ] 
+
+<br>
 ---
 Desadio proposto por<br>
 Paulo Vasconcellos<br>
