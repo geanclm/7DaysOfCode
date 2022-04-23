@@ -13,7 +13,7 @@ Desafios e aprendizados:<br>
 - [x] Data Visualization & Storytelling
 - [x] Forecasting
 - [X] Sistemas de recomendação
-- [ ] .
+- [ ] Servindo modelos em API
 - [ ] .
 - [ ] .
 
