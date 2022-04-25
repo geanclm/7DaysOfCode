@@ -14,7 +14,7 @@ Desafios e aprendizados:<br>
 - [x] Forecasting
 - [X] Sistemas de recomendação
 - [ ] Servindo modelos em API
-- [ ] .
+- [ ] Teste A/B e Testes de Hipótese
 - [ ] .
 
 <br>
