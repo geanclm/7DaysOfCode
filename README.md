@@ -1,11 +1,15 @@
 # 7DaysOfCode
 
-Análise dos dados do Senado<br>
-CEAPS (Cota para Exercício da Atividade Parlamentar dos Senadores)<br><br>
-Objetivos iniciais:<br>
+ATIVIDADES PRATICADAS:
 
-	1 - Encontrar inconsistências no Dataset
-	2 - Analisar os gastos atuais
+	1 - Análise dos dados do CEAPS do Senado
+	2 - Encontrar inconsistências no Dataset do CEAPS
+	3 - Análise dos gastos do CEAPS (Cota para Exercício da Atividade Parlamentar dos Senadores)
+	5 - Implementação da biblioteca Prophet do Facebook
+	6 - Análise de dados executada no Jupyter notebook
+	7 - Análise de dados também executada no Google colaboratory
+	4 - Recomendações de filmes com a base do MovieLens
+	5 - Leitura inicial da base AB testing do kaggle
 
 Desafios e aprendizados:<br>
 
@@ -15,7 +19,7 @@ Desafios e aprendizados:<br>
 - [X] Sistemas de recomendação
 - [ ] Servindo modelos em API
 - [ ] Teste A/B e Testes de Hipótese
-- [ ] .
+- [x] Documente e crie seu portfólio
 
 <br>
 ---
