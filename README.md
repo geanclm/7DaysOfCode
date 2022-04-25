@@ -2,16 +2,18 @@
 
 ATIVIDADES PRATICADAS:
 
-	1 - Análise dos dados do CEAPS do Senado
-	2 - Encontrar inconsistências no Dataset do CEAPS
-	3 - Análise dos gastos do CEAPS (Cota para Exercício da Atividade Parlamentar dos Senadores)
-	5 - Implementação da biblioteca Prophet do Facebook
-	6 - Análise de dados executada no Jupyter notebook
-	7 - Análise de dados também executada no Google colaboratory
-	4 - Recomendações de filmes com a base do MovieLens
-	5 - Leitura inicial da base AB testing do kaggle
+	01 - Análise dos dados do CEAPS do Senado
+	02 - Encontrar inconsistências no Dataset do CEAPS
+	03 - Análise dos gastos do CEAPS (Cota para Exercício da Atividade Parlamentar dos Senadores)
+	04 - Implementação da biblioteca Prophet do Facebook
+	05 - Análise de dados executada no Jupyter notebook
+	06 - Análise de dados também executada no Google colaboratory
+	07 - Recomendações de filmes com a base do MovieLens
+	08 - Tratamento dos dados e merge dos dataframes
+	09 - Leitura inicial da base AB testing do kaggle
+	10 - Notebook publicado no GitHub
 
-Desafios e aprendizados:<br>
+Desafios executados + aprendizados:<br>
 
 - [x] Data Cleaning and Preparation
 - [x] Data Visualization & Storytelling
